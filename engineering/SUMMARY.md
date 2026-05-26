@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why Salesforce DevOps Needs Unique Treatment](README.md)
+* [Welcome!](README.md)
 * [Lesson 1: Get Started](lesson-1-welcome-+-get-started/README.md)
   * [Introduction](lesson-1-welcome-+-get-started/introduction.md)
   * [DevOps and Salesforce](lesson-1-welcome-+-get-started/devops-and-salesforce.md)

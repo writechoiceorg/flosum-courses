@@ -1,11 +1,6 @@
----
-description: >-
-  By the end of this course you'll be able to defend the architectural case for
-  metadata-native Salesforce DevOps to other engineers, from first principles.
-  Working knowledge of Git assumed.
----
+# Welcome!
 
-# Why Salesforce DevOps Needs Unique Treatment
+Why Salesforce DevOps Needs Unique Treatment is the first. By the end of this course you'll be able to defend the architectural case for metadata-native Salesforce DevOps to other engineers, from first principles. Working knowledge of Git assumed.
 
 {% hint style="info" %}
 For: **Developers, architects, DevOps engineers, technical leads, & platform owners**
