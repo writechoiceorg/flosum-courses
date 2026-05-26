@@ -1,4 +1,4 @@
-# Overview
+# Why Salesforce DevOps Needs Unique Treatment
 
 **Course:** Why Salesforce DevOps Needs Unique Treatment
 
@@ -7,6 +7,10 @@
 **Prerequisites:** Working knowledge of Git, CI/CD fundamentals, Salesforce Metadata API
 
 ***
+
+By the end of this course, you'll be able to explain the Salesforce DevOps problem and what it costs to a CFO. No code required.For **Admins, RMs, RevOps, leaders** | Length **4–5 hours** | Prerequisites **None**
+
+##
 
 ## Who this track is for
 
