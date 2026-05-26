@@ -6,7 +6,13 @@ description: >-
 
 # Why Salesforce DevOps Needs Unique Treatment
 
-<mark style="background-color:$info;">For</mark> <mark style="background-color:$info;">**Admins, RMs, RevOps, leaders**</mark> <mark style="background-color:$info;">| Length</mark> <mark style="background-color:$info;">**4–5 hours**</mark> <mark style="background-color:$info;">| Prerequisites</mark> <mark style="background-color:$info;">**None**</mark>
+{% hint style="info" %}
+For: **Admins, RMs, RevOps, leaders**&#x20;
+
+Length: **4–5 hours**&#x20;
+
+Prerequisites: **None**
+{% endhint %}
 
 ## Course fundamentals
 
