@@ -1,41 +1,8 @@
 # Table of contents
 
-* [Why Salesforce DevOps Needs Unique Treatment](README.md)
-
-## Track A — Business Track
-
-* [Overview](track-a-business-track/overview.md)
-* [Lesson 1: Get Started](track-a-business-track/lesson-1-get-started/README.md)
-  * [Introduction](track-a-business-track/lesson-1-get-started/introduction.md)
-  * [DevOps and Salesforce](track-a-business-track/lesson-1-get-started/devops-and-salesforce.md)
-* [Lesson 2: Two Different Worlds](track-a-business-track/lesson-2-two-different-worlds/README.md)
-  * [Git vs. Salesforce](track-a-business-track/lesson-2-two-different-worlds/git-vs.-salesforce.md)
-  * [Who Each System Was Designed For](track-a-business-track/lesson-2-two-different-worlds/who-each-system-was-designed-for.md)
-  * [Why This Difference Matters](track-a-business-track/lesson-2-two-different-worlds/why-this-difference-matters.md)
-* [Lesson 3: The Seven Mismatches](track-a-business-track/lesson-3-the-seven-mismatches/README.md)
-  * [Mismatch 1: Metadata Interdependency](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-1-metadata-interdependency.md)
-  * [Mismatch 2: Org as Source of Truth](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-2-org-as-source-of-truth.md)
-  * [Mismatch 3: Merged Doesn't Mean Works](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-3-merged-doesnt-mean-works.md)
-  * [Mismatch 4: Branching Breaks](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-4-branching-breaks.md)
-  * [Mismatch 5: Deployments Are Transactions](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-5-deployments-are-transactions.md)
-  * [Mismatch 6: No Rollback](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-6-no-rollback.md)
-  * [Mismatch 7: Audit and Compliance](track-a-business-track/lesson-3-the-seven-mismatches/mismatch-7-audit-and-compliance.md)
-* [Lesson 4: The Economics of Drift](track-a-business-track/lesson-4-the-economics-of-drift/README.md)
-  * [Where the Money Leaks](track-a-business-track/lesson-4-the-economics-of-drift/where-the-money-leaks.md)
-  * [The Human Translator Tax](track-a-business-track/lesson-4-the-economics-of-drift/the-human-translator-tax.md)
-  * [The Trust Tax](track-a-business-track/lesson-4-the-economics-of-drift/the-trust-tax.md)
-  * [The Break-Even Calculation](track-a-business-track/lesson-4-the-economics-of-drift/the-break-even-calculation.md)
-* [Lesson 5: Why Patching Git Doesn't Work](track-a-business-track/lesson-5-why-patching-git-doesnt-work/README.md)
-  * [The Wrapper Landscape](track-a-business-track/lesson-5-why-patching-git-doesnt-work/the-wrapper-landscape.md)
-  * [The Wrapper Truth](track-a-business-track/lesson-5-why-patching-git-doesnt-work/the-wrapper-truth.md)
-* [Lesson 6: What Actually Works](track-a-business-track/lesson-6-what-actually-works/README.md)
-  * [Metadata-Native Architecture](track-a-business-track/lesson-6-what-actually-works/metadata-native-architecture.md)
-  * [Extend Git or Replace It?](track-a-business-track/lesson-6-what-actually-works/extend-git-or-replace-it.md)
-  * [Meet Flosum](track-a-business-track/lesson-6-what-actually-works/meet-flosum.md)
-
 ## Track B — Engineering Track
 
-* [Overview](track-b-engineering-track/track-b-engineering.md)
+* [Overview](README.md)
 * [Lesson 1: Get Started](track-b-engineering-track/lesson-1-welcome-+-get-started/README.md)
   * [Introduction](track-b-engineering-track/lesson-1-welcome-+-get-started/introduction.md)
   * [DevOps and Salesforce](track-b-engineering-track/lesson-1-welcome-+-get-started/devops-and-salesforce.md)
