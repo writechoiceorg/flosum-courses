@@ -1,3 +1,9 @@
+---
+description: >-
+  The foundations course for the entire Flosum certification curriculum —
+  Engineering Track.
+---
+
 # Why Salesforce DevOps Needs Unique Treatment
 
 **Course:** Why Salesforce DevOps Needs Unique Treatment
