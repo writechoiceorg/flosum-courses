@@ -1,6 +1,6 @@
 # Welcome!
 
-Why Salesforce DevOps Needs Unique Treatment is the first course in the Flosum Certification. By the end of this course, you'll be able to defend the architectural case for metadata-native Salesforce DevOps to other engineers, from first principles. Working knowledge of Git assumed.
+Why Salesforce DevOps Needs Unique Treatment is the first course in the Flosum Certification. From first principles, it makes the architectural case for why standard Git-based DevOps breaks on Salesforce — and what kind of system actually fits.
 
 {% hint style="info" %}
 For: **Developers, architects, DevOps engineers, technical leads, & platform owners**
