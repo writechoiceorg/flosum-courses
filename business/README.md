@@ -1,6 +1,6 @@
 # Welcome!
 
-\<add content>
+Why Salesforce DevOps Needs Unique Treatment is the first course in the Flosum Certification. By the end of this course, you'll be able to explain the Salesforce DevOps problem and what it costs a CFO. No code required.
 
 {% hint style="info" %}
 For: **Admins, RMs, RevOps, leaders**
