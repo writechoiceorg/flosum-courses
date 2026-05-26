@@ -1,10 +1,6 @@
----
-description: >-
-  By the end of this course, you'll be able to explain the Salesforce DevOps
-  problem and what it costs to a CFO. No code required.
----
+# Welcome!
 
-# Why Salesforce DevOps Needs Unique Treatment
+\<add content>
 
 {% hint style="info" %}
 For: **Admins, RMs, RevOps, leaders**
@@ -13,12 +9,6 @@ Length: **4–5 hours**
 
 Prerequisites: **None**
 {% endhint %}
-
-## Course fundamentals
-
-Salesforce is categorically different from the software Git was built for. That mismatch produces seven specific failure modes with measurable cost. The fix isn't a better wrapper around Git; it's an architecture built for Salesforce from the start.
-
-Each lesson takes one step of that argument and makes it concrete.
 
 ## Key takeaways
 
@@ -33,4 +23,8 @@ By the end of this course, you will be able to:
 
 ## Lessons
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4><a href="track-a-business-track/lesson-1-get-started/">1. Getting Started</a></h4></td><td>Get introduced to DevOps and Salesforce, and understand the pillars of this course.</td><td>null</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-globe-stand" style="color:$primary;">:globe-stand:</i></h4></td><td><h4><a href="track-a-business-track/lesson-2-two-different-worlds/">2. Two Different Worlds</a></h4></td><td>See why Salesforce and Git are categorically different systems, not just different tools.</td><td>null</td><td><a href="/broken/pages/EFXeLTHVDQLFgK0Iy51O">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-cloud-xmark" style="color:$primary;">:cloud-xmark:</i></h4></td><td><h4><a href="track-a-business-track/lesson-3-the-seven-mismatches/">3. The Seven Mismatches</a></h4></td><td>Walk through the seven places Git breaks against Salesforce, with the cost of each.</td><td>null</td><td><a href="/broken/pages/oUUNprjFZmH3rqDBvb9h">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-panel-fire" style="color:$primary;">:panel-fire:</i></h4></td><td><h4><a href="track-a-business-track/lesson-4-the-economics-of-drift/">4. The Economics of Drift</a></h4></td><td>Translate every mismatch into a number a CFO will recognize.</td><td>null</td><td><a href="/broken/pages/AYVJmAXbSHYSDodrPBYA">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-face-head-bandage" style="color:$primary;">:face-head-bandage:</i></h4></td><td><h4><a href="track-a-business-track/lesson-5-why-patching-git-doesnt-work/">5. Why Patching Git Doesn't Work</a></h4></td><td>Understand why wrapper tools mitigate symptoms without fixing the root architecture.</td><td>null</td><td></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-ranking-star" style="color:$primary;">:ranking-star:</i></h4></td><td><h4><a href="track-a-business-track/lesson-6-what-actually-works/">6. What Actually Works</a></h4></td><td>See what a metadata-native architecture looks like, and why it's the only thing that holds up.</td><td>null</td><td></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr></tbody></table>
+Salesforce is categorically different from the software Git was built for. That mismatch produces seven specific failure modes with measurable cost. The fix isn't a better wrapper around Git; it's an architecture built for Salesforce from the start.
+
+Each lesson takes one step of that argument and makes it concrete.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-1-get-started/">1. Getting Started</a></h4></td><td>Get introduced to DevOps and Salesforce, and understand the pillars of this course.</td><td>null</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-globe-stand" style="color:$primary;">:globe-stand:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-2-two-different-worlds/">2. Two Different Worlds</a></h4></td><td>See why Salesforce and Git are categorically different systems, not just different tools.</td><td>null</td><td><a href="/broken/pages/EFXeLTHVDQLFgK0Iy51O">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-cloud-xmark" style="color:$primary;">:cloud-xmark:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-3-the-seven-mismatches/">3. The Seven Mismatches</a></h4></td><td>Walk through the seven places Git breaks against Salesforce, with the cost of each.</td><td>null</td><td><a href="/broken/pages/oUUNprjFZmH3rqDBvb9h">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-panel-fire" style="color:$primary;">:panel-fire:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-4-the-economics-of-drift/">4. The Economics of Drift</a></h4></td><td>Translate every mismatch into a number a CFO will recognize.</td><td>null</td><td><a href="/broken/pages/AYVJmAXbSHYSDodrPBYA">Broken link</a></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-face-head-bandage" style="color:$primary;">:face-head-bandage:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-5-why-patching-git-doesnt-work/">5. Why Patching Git Doesn't Work</a></h4></td><td>Understand why wrapper tools mitigate symptoms without fixing the root architecture.</td><td>null</td><td></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr><tr><td><h4><i class="fa-ranking-star" style="color:$primary;">:ranking-star:</i></h4></td><td><h4><a href="why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/">6. What Actually Works</a></h4></td><td>See what a metadata-native architecture looks like, and why it's the only thing that holds up.</td><td>null</td><td></td><td><a href=".gitbook/assets/fl-placeholder.png">fl-placeholder.png</a></td></tr></tbody></table>
