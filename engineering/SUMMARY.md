@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Why Salesforce DevOps Needs Unique Treatment](README.md)
 
 ## Track A — Business Track
 
