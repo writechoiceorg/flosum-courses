@@ -6,6 +6,8 @@ description: >-
 
 # DevOps and Salesforce
 
+This page defines the two terms at the center of this course and explains why, when they meet, they don't behave the way you'd expect.
+
 ## DevOps in plain English
 
 "DevOps" is one of those words that means different things depending on who's in the room. Here's the version that matters for this course:

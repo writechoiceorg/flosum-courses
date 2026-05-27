@@ -6,6 +6,8 @@ description: >-
 
 # The Wrapper Truth
 
+Wrapper tools follow a recognizable adoption arc. Understanding it is what separates teams that choose the right tool from teams that discover the ceiling at the worst possible time.
+
 ## The 12–18 month wall
 
 Teams that adopt wrapper tools go through a recognizable arc.
