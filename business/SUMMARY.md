@@ -27,6 +27,6 @@
   * [The Wrapper Landscape](why-salesforce-devops-needs-unique-treatment/lesson-5-why-patching-git-doesnt-work/wrapper-landscape.md)
   * [The Wrapper Truth](why-salesforce-devops-needs-unique-treatment/lesson-5-why-patching-git-doesnt-work/wrapper-truth.md)
 * [Lesson 6: What Actually Works](why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/README.md)
+  * [Metadata-Native Architecture](why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/metadata-native-architecture.md)
   * [Extend Git or Replace It?](why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/extend-git-or-replace.md)
   * [Meet Flosum](why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/meet-flosum.md)
-  * [Metadata-Native Architecture](why-salesforce-devops-needs-unique-treatment/lesson-6-what-actually-works/metadata-native-architecture.md)
