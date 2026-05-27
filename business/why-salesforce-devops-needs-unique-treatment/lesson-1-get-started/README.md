@@ -1,4 +1,4 @@
-# Lesson 1: Get Started
+﻿# Lesson 1: Get Started
 
 This lesson establishes who the course is for and why Salesforce DevOps is a distinct discipline from standard software DevOps.
 
@@ -6,4 +6,4 @@ This lesson establishes who the course is for and why Salesforce DevOps is a dis
 
 Each topic below covers a building block of this lesson. We recommend following them in sequence as each builds on the last.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-1" style="color:$primary;">:1:</i>Introduction</h4></td><td>Explains who the course targets, what you'll be able to do when you finish, and sets the floor for the following lessons.</td><td><a href="introduction.md">introduction.md</a></td></tr><tr><td><h4><i class="fa-2" style="color:$primary;">:2:</i> DevOps &#x26; Salesforce</h4></td><td>Defines what DevOps means and shows how Salesforce is architecturally different, not just in tooling, but in what it stores and deploys.</td><td><a href="devops-and-salesforce.md">devops-and-salesforce.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><strong><i class="fa-1" style="color:$primary;">:1:</i>Introduction</strong></p></td><td>Explains who the course targets, what you'll be able to do when you finish, and sets the floor for the following lessons.</td><td><a href="introduction.md">introduction.md</a></td></tr><tr><td><p><strong><i class="fa-2" style="color:$primary;">:2:</i> DevOps &#x26; Salesforce</strong></p></td><td>Defines what DevOps means and shows how Salesforce is architecturally different, not just in tooling, but in what it stores and deploys.</td><td><a href="devops-and-salesforce.md">devops-and-salesforce.md</a></td></tr></tbody></table>
