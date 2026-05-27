@@ -23,6 +23,8 @@ The analysis uses a $358,600 base-case total (from the worked example in the bre
 
 ## High-sensitivity inputs
 
+These three inputs have the biggest effect on the final number. Focus your data collection here first.
+
 ### RM loaded annual salary
 
 The Release Manager salary range spans $80,000 in the market data. This single variable accounts for a $80,000 swing in the model output. For organizations where the RM salary is known precisely, replacing the market-range midpoint with the actual figure significantly tightens the model.
@@ -43,6 +45,8 @@ The model scales linearly with developer count. This input is always known preci
 
 ## Medium-sensitivity inputs
 
+These inputs contribute real variation, but within a tighter range. Good to get right, not critical to get perfect.
+
 ### Change failure rate
 
 The change failure rate input drives the Deployment Loss formula. The range from 5% to 25% produces a $23,000 swing at the base deployment frequency. This is meaningful but less volatile than the high-sensitivity inputs.
@@ -54,6 +58,8 @@ The change failure rate input drives the Deployment Loss formula. The range from
 The compliance overhead range ($20,000–$75,000) depends primarily on whether the organization has experienced a compliance audit that surfaced the retention gap. For organizations without recent audit history, the lower bound is more likely. For organizations in heavily regulated industries (financial services, healthcare), the upper bound and the probabilistic audit-incident cost term both deserve more weight.
 
 ## Low-sensitivity inputs
+
+These two have limited impact under normal conditions. They're included for completeness and become more relevant at high failure rates.
 
 ### Senior developer hourly rate and deployments per year
 
