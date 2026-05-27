@@ -6,7 +6,7 @@ description: >-
 
 # DORA Metric Mapping
 
-DORA's four key metrics (Deployment Frequency, Lead Time for Changes, Change Failure Rate, and Mean Time to Restore) are the industry standard for measuring software delivery performance (DORA State of DevOps Report, 2024). Each metric has a direct mapping to the structural failure modes of Git-based Salesforce pipelines.
+DORA's four key metrics (Deployment Frequency, Lead Time for Changes, Change Failure Rate, and Mean Time to Restore) are the industry standard for measuring software delivery performance _(DORA State of DevOps Report, 2024)_. Each metric has a direct mapping to the structural failure modes of Git-based Salesforce pipelines.
 
 This page documents that mapping explicitly. The claim is not that every Git-based Salesforce team operates at Low tier; it is that the structural characteristics of this architecture create pressure on each metric in a predictable direction, and that pressure is architectural, not organizational.
 
